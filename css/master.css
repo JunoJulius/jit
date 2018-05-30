@@ -9,7 +9,9 @@ button{
 a{
   cursor: pointer;
 }
-
+h1, h2, h3{
+  text-align:center;
+}
 
 @import "compass/css3";
 
